@@ -1,7 +1,9 @@
 # Sistema-de-Seguridad
 
 LOS ARCHIVOS PIR.py, Stemperatura.py son para probar los sensores en la raspberry
+
 El archivo main.cpp es el código para arduino
+
 El archivo rasby.py, es el código en general, para hacer funcionar todos los sensores
 
 
