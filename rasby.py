@@ -150,7 +150,7 @@ def action(msg):
         GPIO.output(27,GPIO.LOW)
         telegram_bot.sendMessage (chat_id, str("ALARMA APAGADA"))
 
-telegram_bot = telepot.Bot('5493887556:AAEJue3IwpUpoQ_fWH-oUPWnOI9icTM0-rY')
+telegram_bot = telepot.Bot('**********************************') # COLOCAR EL DIRECCIÓN DE SU BOT EN TELEGRAM
 print (telegram_bot.getMe())
 
 MessageLoop(telegram_bot, action).run_as_thread()
