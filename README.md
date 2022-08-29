@@ -6,9 +6,10 @@ El archivo main.cpp es el código para arduino
 
 El archivo rasby.py, es el código en general, para hacer funcionar todos los sensores
 
+El archivo Security System Esquemático.pdf es el esquemático del proyecto
+
 
 PASOS
-
 
 CAMARA
 
